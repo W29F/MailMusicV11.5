@@ -26,7 +26,7 @@
 
 ### 💜 Heroku/Railway
 
-[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W29F/MailMusicV10)
+[![Deploy+on+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/W29F/MailMusicV11.5)
 
 
 Get pyrogram (p)  `SESSION` from here:
